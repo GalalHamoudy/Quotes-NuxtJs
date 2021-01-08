@@ -1,0 +1,20 @@
+{
+  "name": "QU",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "aos": "^3.0.0-beta.6",
+    "axios": "^0.20.0",
+    "bootstrap-vue": "^2.17.3",
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.5",
+    "vue-sweetalert2": "^3.0.8"
+  },
+  "devDependencies": {}
+}
